@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Hello World _icon-refresh</name>
+   <tag></tag>
+   <elementGuidId>acd1ef58-302c-4f00-b9fd-879dff6b3008</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-refresh</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-refresh</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[10]/div[@class=&quot;BotEmulator__Widget-sc-1gpl7q6-1 irKqXR&quot;]/div[@class=&quot;BotEmulator__WidgetPanel-sc-1gpl7q6-2 cBrtOA&quot;]/div[@class=&quot;BotEmulator__WidgetPanelFooter-sc-1gpl7q6-7 clCEOQ&quot;]/form[@class=&quot;d-flex&quot;]/button[@class=&quot;sc-fzoCCn gWgtel primary ml-2&quot;]/i[@class=&quot;icon-refresh&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/i</value>
+   </webElementXpaths>
+</WebElementEntity>
