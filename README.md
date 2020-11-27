@@ -1,6 +1,6 @@
 # testKata
 
 - Install Katalon Studio
-- Pull project testKata
+- Download project testKata
 - Open project testKata at Katalon Studio
 - Run Testcase 
